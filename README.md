@@ -1,2 +1,2 @@
 # Deneme1
- deneme iÃ§indir
+ deneme içindir
